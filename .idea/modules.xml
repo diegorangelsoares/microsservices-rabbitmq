@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/estoquepreco/estoquepreco.iml" filepath="$PROJECT_DIR$/estoquepreco/estoquepreco.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/microsservices-rabbitmq.iml" filepath="$PROJECT_DIR$/.idea/microsservices-rabbitmq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/consumidor-estoque-java/consumidor-estoque.iml" filepath="$PROJECT_DIR$/consumidor-estoque-java/consumidor-estoque.iml" />
+      <module fileurl="file://$PROJECT_DIR$/produtor-fila-mensagem-e-api/estoquepreco.iml" filepath="$PROJECT_DIR$/produtor-fila-mensagem-e-api/estoquepreco.iml" />
+      <module fileurl="file://$PROJECT_DIR$/librabbitmq/librabbitmq.iml" filepath="$PROJECT_DIR$/librabbitmq/librabbitmq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/microservico-estoquepreco-rabbitmq-6e609c401207833fe53aa4d274eaa1a73853fe93.iml" filepath="$PROJECT_DIR$/.idea/microservico-estoquepreco-rabbitmq-6e609c401207833fe53aa4d274eaa1a73853fe93.iml" />
     </modules>
   </component>
 </project>
