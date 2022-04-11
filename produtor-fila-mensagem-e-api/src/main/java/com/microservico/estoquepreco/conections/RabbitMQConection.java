@@ -50,5 +50,6 @@ public class RabbitMQConection {
 
     this.amqpAdmin.declareBinding(ligacaoEstoque);
     this.amqpAdmin.declareBinding(ligacaoPreco);
+
   }
 }
